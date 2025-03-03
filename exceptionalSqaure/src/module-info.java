@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Owenh
+ *
+ */
+module exceptionalSqaure {
+}
